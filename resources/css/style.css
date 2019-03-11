@@ -4151,7 +4151,7 @@ textarea {
     height: 100vh;
     top: 0;
     left: 0;
-    z-index: -1;
+    /* z-index: -1; */
     overflow: hidden;
 }
 
@@ -4303,6 +4303,7 @@ textarea {
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
+    z-index: 1;
 }
 
 .page-cover .video-container {
@@ -6491,7 +6492,8 @@ textarea {
 }
 
 .bg-gradient-grey {
-  background-image: -webkit-linear-gradient(-150deg,rgba(50,50,50,1) 10%,rgba(20,20,20,1) 70%,rgba(0,0,0,1) 100%);
+  background-image: -webkit-linear-gradient(-150deg,rgba(100,100,100,0.5) 10%,rgba(0,0,0,0.7) 70%,rgba(0,0,0,1) 100%);
+  z-index: 0;
 }
 
 .bg-gradient-grey #particles-js-grey {
