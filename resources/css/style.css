@@ -97,7 +97,7 @@ body {
   background-color: #000000;
 }
 
-.loader {
+#loader {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -108,7 +108,7 @@ body {
   background-color: #000000;
 }
 
-.hill {
+#hill {
   position: absolute;
   width: 7.1em;
   height: 7.1em;
@@ -119,7 +119,7 @@ body {
   transform: rotate(45deg);
 }
 
-.hill:after {
+#hill:after {
   content: '';
   position: absolute;
   width: 7.1em;
@@ -128,7 +128,7 @@ body {
   background-color: #000000;
 }
 
-.box {
+#box {
   position: absolute;
   left: 0;
   bottom: -.1em;
