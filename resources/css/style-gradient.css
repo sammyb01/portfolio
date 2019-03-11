@@ -57,8 +57,8 @@ a:hover {
   background: -webkit-linear-gradient(top,rgba(142,89,204,0.8) 10%,rgba(136,106,234,0.8) 53%,rgba(54, 40, 158, 0.85) 100%);
   background: linear-gradient(to bottom,rgba(142,89,204,0.8) 10%,rgba(136,106,234,0.8) 53%,rgba(54, 40, 158, 0.85) 100%); */
   background: rgba(0,0,0,.85);
-  background: -moz-linear-gradient(bottom,rgba(150,150,150,0.5) 10%,rgba(80,80,80,0.3) 53%,rgba(0,0,0,1) 100%);
-  background: -webkit-linear-gradient(top,rgba(150,150,150,0.5) 10%,rgba(80,80,80,0.3) 53%,rgba(0,0,0,1) 100%);
-  background: linear-gradient(to bottom,rgbargba(150,150,150,0.5) 10%,rgba(80,80,80,0.3) 53%,rgba(0,0,0,1) 100%);
+  background: -moz-linear-gradient(bottom,rgba(150,150,150,0.5) 10%,rgba(40,40,40,0.3) 53%,rgba(0,0,0,1) 100%);
+  background: -webkit-linear-gradient(top,rgba(150,150,150,0.5) 10%,rgba(40,40,40,0.3) 53%,rgba(0,0,0,1) 100%);
+  background: linear-gradient(to bottom,rgbargba(150,150,150,0.5) 10%,rgba(40,40,40,0.3) 53%,rgba(0,0,0,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(150, 150, 150, 0.5)',endColorstr='rgba(0, 0, 0, 1)',GradientType=0 );
 }
