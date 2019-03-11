@@ -92,7 +92,7 @@ video {
 
 /* ========= Preloader ==========*/
 
-html,
+/* html,
 body {
   background-color: #000000;
 }
@@ -175,7 +175,7 @@ body {
   100% {
     transform: translate(0, -1em) rotate(-225deg);
   }
-}
+} */
 
 .pageloader{
     position: fixed;
