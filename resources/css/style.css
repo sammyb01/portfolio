@@ -146,7 +146,7 @@ video {
     color: #555;
     letter-spacing: 1em;
     padding-left: 1em;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: 'Roboto', 'Helvetica', sans-serif;
     font-weight: bold;
 }
@@ -365,7 +365,7 @@ video {
     align-items: center;
     position: relative;
     letter-spacing: 0.2em;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     border-radius: 5px;
 }
 .btn-transparent {
@@ -1864,7 +1864,7 @@ textarea {
 }
 
 .article .article-footer .article-details h3 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .media .icon {
@@ -3347,7 +3347,7 @@ textarea {
     }
 
     .page-header-alpha .all-menu-wrapper .navbar-nav .nav-item a {
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
         font-size: 24px;
     }
 
@@ -3558,7 +3558,7 @@ textarea {
 
 @media (min-width: 768px) {
     .page-header-alpha .navbar-mainmenu .nav-item {
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
         opacity: 0;
         -webkit-transform: translateX(-20px);
         transform: translateX(-20px);
@@ -3824,7 +3824,7 @@ textarea {
     line-height: 1;
     right: 100%;
     padding-right: 8px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 1rem;
     color: #ffffff;
     -webkit-transition: 0.3s;
@@ -4509,7 +4509,7 @@ textarea {
     text-align: center;
     left: -100px;
     top: 0;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     letter-spacing: 8px;
 }
 
@@ -5356,7 +5356,7 @@ textarea {
 
 .section-home .home-title {
     font-size: 3rem;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin-bottom: 2rem;
 }
 
@@ -6455,7 +6455,7 @@ textarea {
     font-weight: 300;
     line-height: 1.1;
     font-weight: bold;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 @media (min-width: 768px) {
