@@ -6491,7 +6491,7 @@ textarea {
 }
 
 .bg-gradient-grey {
-  background-image: -webkit-linear-gradient(-150deg,rgba(100,100,100,0.5) 10%,rgba(0,0,0,0.7) 70%,rgba(0,0,0,1) 100%);
+  background-image: -webkit-linear-gradient(-150deg,rgba(50,50,50,1) 10%,rgba(20,20,20,1) 70%,rgba(0,0,0,1) 100%);
 }
 
 .t-nowrap {
