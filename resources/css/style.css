@@ -4828,6 +4828,14 @@ textarea {
 
 .section .section-wrapper .bmw-project {
     width: 100%;
+    max-width: 1000px;
+    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section .section-wrapper .bmw-project img {
+    width: 100%;
     max-width: 889px;
     max-height: 500px;
     margin-left: auto;
@@ -5406,13 +5414,13 @@ textarea {
     }
 }
 
-.section #cf {
+.section .section-wrapper .bmw-project #cf {
   position: relative;
   left: 0;
   width: 100%;
 }
 
-.section #cf img {
+.section .section-wrapper .bmw-project #cf img {
   position: absolute;
   width: 100%;
   -webkit-transition: opacity 1s ease-in-out;
@@ -5421,7 +5429,7 @@ textarea {
   transition: opacity 1s ease-in-out;
 }
 
-.section #cf img.top:hover {
+.section .section-wrapper .bmw-project #cf img.top:hover {
   opacity:0;
 }
 
