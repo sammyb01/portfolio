@@ -5399,14 +5399,14 @@ textarea {
 }
 
 .section #cf {
-  /* position:relative; */
+  position:relative;
   height:281px;
   width:450px;
   margin:0 auto;
 }
 
 .section #cf img {
-  /* position:absolute; */
+  position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
