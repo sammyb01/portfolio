@@ -5403,14 +5403,16 @@ textarea {
   left: 0;
   display: block;
   margin-left: auto;
-  margin-right: 100px;
+  margin-right: auto;
+  width: 99%;
 }
 
 .section #cf img {
   position: absolute;
   display: block;
   margin-left: auto;
-  margin-right: 100px;
+  margin-right: auto;
+  width: 99%;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
