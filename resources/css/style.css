@@ -5420,7 +5420,7 @@ textarea {
 
 .section #cf {
   position: relative;
-  right: 0;
+  left: 0;
 }
 
 .section #cf img {
