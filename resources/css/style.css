@@ -5420,7 +5420,7 @@ textarea {
   width: 100%;
 }
 
-.section .section-wrapper .bmw-project #cf img {
+.section #cf img {
   position: absolute;
   width: 100%;
   -webkit-transition: opacity 1s ease-in-out;
@@ -5429,7 +5429,7 @@ textarea {
   transition: opacity 1s ease-in-out;
 }
 
-.section .section-wrapper .bmw-project #cf img.top:hover {
+.section #cf img.top:hover {
   opacity:0;
 }
 
