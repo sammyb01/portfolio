@@ -4832,8 +4832,8 @@ textarea {
     max-height: 500px;
     padding-left: 16px;
     padding-right: 16px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section .section-wrapper .bmw-project img {
@@ -4842,8 +4842,8 @@ textarea {
     max-height: 500px;
     padding-left: 16px;
     padding-right: 16px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section .section-wrapper.largewidth {
@@ -5419,8 +5419,7 @@ textarea {
 }
 
 .section #cf {
-  position: relative;
-  left: 0;
+  position: absolute;
 }
 
 .section #cf img {
