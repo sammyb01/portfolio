@@ -5398,7 +5398,7 @@ textarea {
     }
 }
 
-/* .section #cf {
+.section #cf {
   position:relative;
   height:281px;
   width:450px;
@@ -5416,7 +5416,7 @@ textarea {
 
 .section #cf img.top:hover {
   opacity:0;
-} */
+}
 
   /* @keyframes cfFadeInOut {
     0% {
