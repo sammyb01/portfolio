@@ -4826,6 +4826,15 @@ textarea {
     margin-right: auto;
 }
 
+.section .section-wrapper .bmw-project {
+    width: 100%;
+    max-width: 889px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .section .section-wrapper.largewidth {
     max-width: 1020px;
     padding: 16px 2rem;
@@ -5401,14 +5410,12 @@ textarea {
 .section #cf {
   position: relative;
   left: 0;
-  width: 889px;
-  height: 500px;
+  width: 100%;
 }
 
 .section #cf img {
   position: absolute;
-  width: 889px;
-  height: 500px;
+  width: 100%;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
