@@ -4170,7 +4170,7 @@ textarea {
     height: 100vh;
     top: 0;
     left: 0;
-    z-index: -1;
+    /* z-index: -1; */
     overflow: hidden;
 }
 
@@ -4211,19 +4211,6 @@ textarea {
     transition: 2s;
 }
 
-.page-cover .main-bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("file:///C:/Users/sambordo/portfolio/resources/img/abc.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  z-index: -1;
-}
 
 .page-cover .bg-blur-0 {
     -webkit-filter: none;
