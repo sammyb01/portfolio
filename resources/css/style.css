@@ -5404,7 +5404,7 @@ textarea {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 110%;
+  width: 100%;
 }
 
 .section #cf img {
@@ -5412,7 +5412,7 @@ textarea {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 110%;
+  width: 100%;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
