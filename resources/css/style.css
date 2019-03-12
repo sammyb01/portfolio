@@ -4870,7 +4870,7 @@ textarea {
 @media (min-width: 768px) {
     .section .section-wrapper .scrollable {
         padding-top: 80px;
-        padding-bottom: 80px;
+        padding-bottom: 40px;
     }
 }
 
