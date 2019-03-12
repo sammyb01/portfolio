@@ -4829,7 +4829,7 @@ textarea {
 .section .section-wrapper .bmw-project {
     width: 100%;
     max-width: 889px;
-    max-height: 500px
+    max-height: 500px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -5410,7 +5410,7 @@ textarea {
   position: relative;
   left: 0;
   width: 100%;
-  height: 100%
+  height: 100%;
 }
 
 .section #cf img {
