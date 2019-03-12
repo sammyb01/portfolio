@@ -5400,14 +5400,21 @@ textarea {
 
 .section #cf {
   position:relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   height:600px;
   width:500px;
-  margin:0 auto;
 }
 
 .section #cf img {
   position:absolute;
   left:0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
