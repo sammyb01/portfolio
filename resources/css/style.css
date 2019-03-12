@@ -5419,11 +5419,11 @@ textarea {
 }
 
 .section #cf {
-  position: absolute;
+  position: relative;
 }
 
 .section #cf img {
-  position: absolute;
+  position: relative;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
