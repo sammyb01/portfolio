@@ -5399,7 +5399,7 @@ textarea {
 }
 
 .section #cf {
-  position:relative;
+  position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -5408,7 +5408,8 @@ textarea {
 }
 
 .section #cf img {
-  position:absolute;
+  position: absolute;
+  left: 0;
   display: block;
   margin-left: auto;
   margin-right: auto;
