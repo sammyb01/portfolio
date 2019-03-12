@@ -4829,8 +4829,7 @@ textarea {
 .section .section-wrapper .bmw-project {
     width: 100%;
     max-width: 889px;
-    padding-left: 16px;
-    padding-right: 16px;
+    max-height: 500px
     margin-left: auto;
     margin-right: auto;
 }
@@ -5411,11 +5410,13 @@ textarea {
   position: relative;
   left: 0;
   width: 100%;
+  height: 100%
 }
 
 .section #cf img {
   position: absolute;
   width: 100%;
+  height: 100%;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
