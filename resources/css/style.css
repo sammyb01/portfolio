@@ -5398,14 +5398,14 @@ textarea {
     }
 }
 
-.section #crossfade {
+/* .section #cf {
   position:relative;
   height:281px;
   width:450px;
   margin:0 auto;
 }
 
-.section #crossfade img {
+.section #cf img {
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
@@ -5414,11 +5414,11 @@ textarea {
   transition: opacity 1s ease-in-out;
 }
 
-.section #crossfade img.top:hover {
+.section #cf img.top:hover {
   opacity:0;
-}
+} */
 
-  /* @keyframes crossfadeFadeInOut {
+  /* @keyframes cfFadeInOut {
     0% {
     opacity:1;
 }
@@ -5433,7 +5433,7 @@ opacity:0;
 }
 }
 
-#crossfade img.top {
+#cf img.top {
 animation-name: cfFadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
