@@ -5450,11 +5450,11 @@ textarea {
   transition: opacity 1s ease-in-out;
 }
 
-.section #cf img.top:hover {
+/* .section #cf img.top:hover {
   opacity:0;
-}
+} */
 
-  /* @keyframes cfFadeInOut {
+  @keyframes cfFadeInOut {
     0% {
     opacity:1;
 }
@@ -5475,7 +5475,7 @@ animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
 animation-duration: 10s;
 animation-direction: alternate;
-} */
+}
 
 .section-home {
     display: -webkit-box;
