@@ -6654,6 +6654,18 @@ animation-direction: alternate;
     }
 }
 
+.display-6 {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+@media (min-width: 768px) {
+    .display-6 {
+        font-size: 3rem;
+    }
+}
+
 .display-title {
     margin-bottom: 1rem;
 }
