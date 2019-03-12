@@ -5401,12 +5401,14 @@ textarea {
 .section #cf {
   position: relative;
   left: 0;
-  width: 100%;
+  width: 889px;
+  height: 500px;
 }
 
 .section #cf img {
   position: absolute;
-  width: 100%;
+  width: 889px;
+  height: 500px;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
