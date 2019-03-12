@@ -5403,8 +5403,7 @@ textarea {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  height:600px;
+  height:889px;
   width:500px;
 }
 
@@ -5414,7 +5413,6 @@ textarea {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
