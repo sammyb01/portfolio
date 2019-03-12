@@ -1,4 +1,4 @@
-a {
+/* a {
   color: #3346d1; }
 a:hover {
   color: rgba(51, 70, 209, 0.8); }
@@ -62,4 +62,4 @@ a:hover {
   background: linear-gradient(-150deg,rgba(100,100,100,0.5) 10%,rgba(0,0,0,0.7) 70%,rgba(0,0,0,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(100, 100, 100, 0.5)',endColorstr='rgba(0, 0, 0, 1)',GradientType=0 );
   z-index: 1;
-}
+} */
