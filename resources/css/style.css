@@ -5325,6 +5325,7 @@ textarea {
 .flex-row .column30 {
   flex: 30%;
   min-height: 500px;
+  margin-top: 40px;
   padding: 10px;
 }
 
