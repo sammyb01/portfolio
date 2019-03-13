@@ -5257,6 +5257,18 @@ textarea {
     content: "";
 }
 
+.flex-row {
+  display: flex;
+}
+
+.flex-row .column13 {
+  flex: 33.33%;
+}
+
+.flex-row .column23{
+  flex: 66.67%;
+}
+
 .row .align-self-end .section-content .title-desc {
     margin-bottom: 0;
 }
