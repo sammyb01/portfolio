@@ -253,8 +253,12 @@ body {
   padding: 8px;
 }
 
+.top-pad {
+  padding-top: 20px
+}
+
 .bottom-pad {
-  padding-bottom: 60px;
+  padding-bottom: 40px;
 }
 
 .btn {
