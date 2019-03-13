@@ -4839,7 +4839,7 @@ textarea {
 
 .section .section-wrapper {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1200px;
     padding-left: 16px;
     padding-right: 16px;
     margin-left: auto;
@@ -5263,7 +5263,6 @@ textarea {
 
 .flex-row .column30 {
   flex: 30%;
-  padding-right: 40;
 }
 
 .flex-row .column70{
