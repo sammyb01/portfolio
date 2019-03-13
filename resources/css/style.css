@@ -5263,12 +5263,12 @@ textarea {
 
 .flex-row .column30 {
   flex: 30%;
-  padding: 20px;
+  padding: 10px;
 }
 
 .flex-row .column70{
   flex: 70%;
-  padding: 20px;
+  padding: 10px;
 }
 
 .row .align-self-end .section-content .title-desc {
