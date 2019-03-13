@@ -316,8 +316,8 @@ body {
     width: 100%;
 }
 
-.btn-half {
-  width: 50%;
+.btn-70 {
+  width: 70%;
   text-align: center;
 }
 
@@ -4848,7 +4848,7 @@ textarea {
 
 .section .section-wrapper {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1000px;
     padding-left: 16px;
     padding-right: 16px;
     margin-left: auto;
@@ -4890,6 +4890,54 @@ textarea {
 
 @media (min-width: 1600px) {
     .section .section-wrapper.fullwidth {
+        max-width: none;
+    }
+}
+
+.section .section-wrapper-project {
+    width: 100%;
+    max-width: 1200px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.section .section-wrapper-project.largewidth {
+    max-width: 1020px;
+    padding: 16px 2rem;
+    margin-bottom: 2em;
+}
+
+@media (min-width: 768px) {
+    .section .section-wrapper-project .scrollable {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+}
+
+@media (min-width: 768px) {
+    .section .section-wrapper-project {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (min-width: 1600px) {
+    .section .section-wrapper-project {
+        max-width: 1200px;
+    }
+}
+
+.section .section-wrapper-project.fullwidth {
+    max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+@media (min-width: 1600px) {
+    .section .section-wrapper-project.fullwidth {
         max-width: none;
     }
 }
@@ -5529,6 +5577,37 @@ animation-direction: alternate;
 }
 
 .section-home .section-wrapper.padding-top {
+    padding-top: 160px;
+}
+
+.section-home .section-wrapper-project {
+    width: 100%;
+    text-align: center;
+}
+
+.section-home .section-wrapper-project.twoside {
+    text-align: left;
+    max-width: 1020px;
+}
+
+@media (min-width: 1600px) {
+    .section-home .section-wrapper-project.twoside {
+        max-width: 1200px;
+    }
+}
+
+.section-home .section-wrapper-project .fit-screen-sm {
+    min-height: 512px;
+}
+
+@media (min-width: 768px) {
+    .section-home .section-wrapper-project .fit-screen-sm {
+        min-height: auto;
+    }
+}
+
+.section-home .section-wrapper-project
+.padding-top {
     padding-top: 160px;
 }
 
