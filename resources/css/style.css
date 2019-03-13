@@ -5263,6 +5263,7 @@ textarea {
 
 .flex-row .column30 {
   flex: 30%;
+  padding-right: 40;
 }
 
 .flex-row .column70{
