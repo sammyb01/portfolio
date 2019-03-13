@@ -5318,18 +5318,22 @@ textarea {
     content: "";
 }
 
-.flex-row {
+.flex-row70 {
   display: flex;
 }
 
-.flex-row .column30 {
+.flex-row30 {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-row30 .column30 {
   flex: 30%;
   min-height: 500px;
   padding: 10px;
-  justify-content: space-around;
 }
 
-.flex-row .column70{
+.flex-row70 .column70{
   flex: 70%;
   padding: 10px;
 }
