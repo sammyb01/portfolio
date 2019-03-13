@@ -5268,6 +5268,8 @@ textarea {
 .flex-row .column30 {
   flex: 30%;
   padding: 10px;
+  justify-content: center;
+  align-items: center;
 }
 
 .flex-row .column70{
