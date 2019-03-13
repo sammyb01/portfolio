@@ -5322,10 +5322,14 @@ textarea {
 
 .flex-row .column30 {
   flex: 30%;
+  display: block;
+  bottom: 0;
+  top: 0;
+  margin-bottom: auto;
+  margin-top: auto;
   min-height: 500px;
   padding: 10px;
   text-align: center;
-  vertical-align: center;
 }
 
 .flex-row .column70{
