@@ -5318,18 +5318,18 @@ textarea {
 
 .flex-row {
   display: flex;
+  position: relative;
 }
 
 .flex-row .column30 {
   flex: 30%;
-  display: block;
-  bottom: 0;
+  position: absolute;
   top: 0;
-  margin-bottom: auto;
+  bottom: 0;
   margin-top: auto;
+  margin-bottom: auto;
   min-height: 500px;
   padding: 10px;
-  text-align: center;
 }
 
 .flex-row .column70{
