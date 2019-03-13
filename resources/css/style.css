@@ -258,7 +258,7 @@ body {
 }
 
 .bottom-pad {
-  padding-bottom: 30px;
+  padding-bottom: 120px;
 }
 
 .btn {
@@ -5318,22 +5318,17 @@ textarea {
     content: "";
 }
 
-.flex-row70 {
+.flex-row {
   display: flex;
 }
 
-.flex-row30 {
-  display: flex;
-  justify-content: center;
-}
-
-.flex-row30 .column30 {
+.flex-row .column30 {
   flex: 30%;
   min-height: 500px;
   padding: 10px;
 }
 
-.flex-row70 .column70{
+.flex-row .column70{
   flex: 70%;
   padding: 10px;
 }
