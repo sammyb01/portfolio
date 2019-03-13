@@ -318,9 +318,11 @@ body {
 
 .btn-70 {
   width: 70%;
-  text-align: center;
   font-size: 0.875rem;
-  justify-content: center;
+}
+
+.btn-align-center {
+  text-align: center;
 }
 
 .btn-primary {
