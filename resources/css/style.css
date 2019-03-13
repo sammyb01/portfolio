@@ -5261,12 +5261,12 @@ textarea {
   display: flex;
 }
 
-.flex-row .column13 {
-  flex: 33.33%;
+.flex-row .column30 {
+  flex: 30%;
 }
 
-.flex-row .column23{
-  flex: 66.67%;
+.flex-row .column70{
+  flex: 70%;
 }
 
 .row .align-self-end .section-content .title-desc {
