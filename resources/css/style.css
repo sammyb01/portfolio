@@ -4512,7 +4512,8 @@ textarea {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.2);
+    background:  linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
+    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
 }
 
 .section-cover-tier {
@@ -4560,7 +4561,8 @@ textarea {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.2);
+    background:  linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
+    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
 }
 
 .cover-content {
@@ -6620,7 +6622,8 @@ animation-direction: alternate;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+    background:  linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
+    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
 }
 
 .bg-gradient-primary {
