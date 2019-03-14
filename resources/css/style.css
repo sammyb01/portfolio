@@ -4512,13 +4512,13 @@ textarea {
     left: 0;
     width: 100%;
     height: 100%;
-    background:  linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
-    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .section-cover-tier {
     min-height: 120px;
-    background: #000000;
+    background: linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
+    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
     margin-bottom: 20px;
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
@@ -4561,8 +4561,7 @@ textarea {
     left: 0;
     width: 100%;
     height: 100%;
-    background:  linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
-    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .cover-content {
@@ -6622,8 +6621,7 @@ animation-direction: alternate;
     left: 0;
     width: 100%;
     height: 100%;
-    background:  linear-gradient(180deg, rgba(12, 13, 21, 0.25) 0%,
-    rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.233425) 0.01%, rgba(12, 13, 21, 0) 100%);
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .bg-gradient-primary {
