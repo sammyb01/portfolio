@@ -4602,7 +4602,6 @@ textarea {
     margin-bottom: 32px;
     left: 50%;
     font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
-    line-height: normal;
     z-index: 2;
     background: transparent;
 }
