@@ -4465,6 +4465,10 @@ textarea {
     position: relative;
 }
 
+.body-item {
+    position: relative;
+}
+
 .body-page .cursor-ball {
     position: absolute;
     z-index: 0;
