@@ -5343,6 +5343,10 @@ textarea {
   padding: 10px;
 }
 
+.flex-row .column30b p {
+  font-size: 1rem;
+}
+
 .flex-row .column70{
   flex: 70%;
   padding: 10px;
