@@ -1933,14 +1933,14 @@ textarea {
 
 .article .article-header .wrapper {
     width: 100%;
-    max-width: 900px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .article .article-content .wrapper {
     width: 100%;
-    max-width: 900px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -1980,7 +1980,7 @@ textarea {
     margin-bottom: 2rem;
     padding-bottom: 2rem;
     width: 100%;
-    max-width: 900px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
