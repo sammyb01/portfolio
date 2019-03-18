@@ -1958,6 +1958,7 @@ textarea {
 .article .article-content .info-small p {
     margin-bottom: 0;
     margin: 0 auto;
+    text-align: center;
 }
 
 .article .article-content .info-small p:nth-child(1) {
