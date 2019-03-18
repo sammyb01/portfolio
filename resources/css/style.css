@@ -1962,8 +1962,9 @@ textarea {
 }
 
 .article .article-content .info-small p:nth-child(1) {
-    margin: auto;
-    margin-right: 20px;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .article .article-content .info-small p:nth-child(2) {
