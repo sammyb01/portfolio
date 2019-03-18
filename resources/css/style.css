@@ -2117,7 +2117,8 @@ textarea {
 .article-light > .article-content > .wrapper > hr {
     display: block;
     position: relative;
-    border: 0;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.5);
     margin-top: 44px;
     margin-bottom: 2rem;
     text-align: center;
