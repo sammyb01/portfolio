@@ -5654,7 +5654,7 @@ animation-direction: alternate;
 .section-home .home-title {
     font-size: 3rem;
     /* text-transform: uppercase; */
-    margin-bottom: 2rem;
+    margin-bottom: 1.6rem;
 }
 
 .section-home .home-title:before {
