@@ -6875,6 +6875,7 @@ h1, h2, h3, h4 {
     margin: 0;
 }
 .about-section .mission-border {
+    height: 70%;
     border-left: 2px solid rgba(255, 255, 255, 0.5);
 }
 .about-section .shadow {
