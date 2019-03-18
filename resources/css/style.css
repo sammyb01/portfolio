@@ -51,7 +51,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
 }
 
 h3, h4 {
@@ -1888,7 +1888,7 @@ textarea {
 
 .form-group label.error {
     position: absolute;
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     color: #ffffff;
     font-size: 12px;
     top: 4px;
@@ -2104,7 +2104,7 @@ textarea {
 }
 
 .article-light > .article-content > .wrapper > p {
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     margin-top: 1.5rem;
 }
 
@@ -2136,7 +2136,7 @@ textarea {
 }
 
 .article-light > .article-content > .wrapper > li {
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     font-size: 1rem;
     margin-left: 30px;
     margin-bottom: 14px;
@@ -2185,7 +2185,7 @@ textarea {
     padding-left: 20px;
     padding-top: 0px;
     padding-bottom: 2px;
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     font-size: 1rem;
     font-style: italic;
     color: rgb(255, 255, 255);
@@ -3551,7 +3551,7 @@ textarea {
 }
 
 .page-header-alpha .navbar-topmenu .navbar-nav-menu .nav-item {
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -4601,7 +4601,7 @@ textarea {
     right: auto;
     margin-bottom: 32px;
     left: 50%;
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     z-index: 2;
     background: transparent;
 }
@@ -4623,7 +4623,7 @@ textarea {
     position: relative;
     display: block;
     font-size: 0.75rem;
-    font-family: "Open Sans", "Opensans", "Roboto", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    font-family: "Roboto", "Opensans", "Open Sans", "Helvetica", -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
     line-height: 1;
     padding: 8px 8px;
     -webkit-transition: 0.3s;
