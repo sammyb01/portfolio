@@ -272,8 +272,8 @@ $(document).on('ready', function () {
                     }
 
                     // Init contact form (change backend.php file to your php file which will send email)
-                    var newsletterServerUrl = './backend.php';
-                    var messageServerUrl = './backend.php';
+                    var newsletterServerUrl = '../resources/backend.php';
+                    var messageServerUrl = '../resources/backend.php';
 
                     if (sendEmailForm.attr('action') && (sendEmailForm.attr('action')) != '') {
                         newsletterServerUrl = sendEmailForm.attr('action');
@@ -345,4 +345,3 @@ $(document).on('ready', function () {
 
 
 });
-
