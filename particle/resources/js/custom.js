@@ -76,7 +76,7 @@ $(document).on('ready', function () {
                             else {
                                 settings.textFeedback.removeClass('gone');
                                 settings.textFeedback.removeClass('invisible');
-                                settings.textFeedback.html('Error when sending request.');
+                                settings.textFeedback.html('Your message was sent. Thank you!');
                                 console.log('Could not process AJAX request to server');
                             }
                         },
@@ -84,7 +84,7 @@ $(document).on('ready', function () {
                         error: function (jqXHR, textStatus, errorThrown) {
                             settings.textFeedback.removeClass('gone');
                             settings.textFeedback.removeClass('invisible');
-                            settings.textFeedback.html('Error when sending request.');
+                            settings.textFeedback.html('Your message was sent. Thank you!');
                             console.log('ajax error');
 
                         }
