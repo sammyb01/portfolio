@@ -60,7 +60,7 @@ $(document).on('ready', function () {
                         url: settings.serverUrl,
                         type: settings.type,
                         data: form_data,
-                        dataType: 'json',
+                        dataType: 'xml',
 
                         success: function (data) {
                             //Ajax connexion was a success, now handle response
